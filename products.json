@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Áo thun basic",
+    "price": 150000,
+    "desc": "Áo thun cotton thoáng mát"
+  },
+  {
+    "name": "Quần jean nam",
+    "price": 350000,
+    "desc": "Jean co giãn form slim"
+  },
+  {
+    "name": "Váy nữ Hàn Quốc",
+    "price": 420000,
+    "desc": "Thiết kế trẻ trung"
+  },
+  {
+    "name": "Áo hoodie",
+    "price": 300000,
+    "desc": "Nỉ ấm, phong cách streetwear"
+  }
+]
